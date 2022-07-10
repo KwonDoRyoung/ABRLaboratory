@@ -25,13 +25,13 @@
 ### 강의 목차
 |      Week      |     Date      |                                  Title                                  | Lecturer |
 |:--------------:|:-------------:|:-----------------------------------------------------------------------:|:--------:|
-|    **1 주차**    |     07.18     |                     [What is the Deep Learning?]()                      |   장준호    |
+|    **1 주차**    |     07.18     |                     [What is the Deep Learning?]()                      |   배준현    |
 |    **1 주차**    |     07.20     |            [How to code the Deep Learning? – 01 Training]()             |   박형근    |
 |    **1 주차**    |     07.22     |           [How to code the Deep Learning? – 02 Validation]()            |   박태원    |
 |                |               |                                                                         |          |
 |    **2 주차**    |     07.25     |             [How to code the Deep Learning? – 03 Dataset]()             |   배준현    |
 |    **2 주차**    |     07.27     |              [How to Train a Deep Neural Network better]()              |   이정헌    |
-|    **2 주차**    |     07.29     |      [What is the Convolution Neural Network (CNN) – 01 Operate]()      |   배준현    |
+|    **2 주차**    |     07.29     |      [What is the Convolution Neural Network (CNN) – 01 Operate]()      |   장준호    |
 |                |               |                                                                         |          |
 |    **3 주차**    |     08.01     |       [What is the Convolution Neural Network (CNN) – 02 Model]()       |   이준원    |
 |    **3 주차**    |     08.03     | [What is the Convolution Neural Network (CNN) – 03 Pre-trained Model]() |   배준현    |
